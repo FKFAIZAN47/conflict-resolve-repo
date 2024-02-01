@@ -2,7 +2,7 @@ This is used to solve conflict
 
 <<<<<<< HEAD
 Yes we want to solve conflict.
-Everything is good!
+I wanna go home
 =======
 
 This is Tanya Mae Huertas adding new content. witiwiw
